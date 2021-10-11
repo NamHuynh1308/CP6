@@ -3,5 +3,4 @@
 ### Shifting elements in an array (exam 1 answer)
 ### Exception
 ####
-'java'
-System.out.println();
+'System.out.println();'
